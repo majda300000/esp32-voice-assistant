@@ -1,0 +1,6 @@
+sdkconfig.*
+.vscode
+.devcontainer
+build/
+DHT11-sensor/
+DHT11-sensor-v2/
